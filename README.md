@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-LIVE DEMO : >>>>>>> : https://netflixcloned.netlify.app/
+LIVE DEMO : >>>>>>> : https://netflix-clone-gamma-gules.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
